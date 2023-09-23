@@ -1,7 +1,7 @@
 ---
 title: Example Post
 date: 2023-07-21T00:00:00Z
-author: Darnell McDonnald
+author: Anna Dixon
 image:
   src: /images/post-example.jpg
   alt: code light stuff
