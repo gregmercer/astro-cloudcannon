@@ -13,7 +13,7 @@ heroComponent:
     width: 200
     height: 330
   link:
-    href: mailto:chris@codinginpublic.dev
+    href: mailto:gmercer@example.com
     style: secondary
     text: Contact Me
 ---
